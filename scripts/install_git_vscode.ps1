@@ -71,7 +71,7 @@ catch {
 }
 
 
-$url = "https://raw.githubusercontent.com/RabinSchool/python_examples/main/settings.json"
+$url = "https://raw.githubusercontent.com/tomer2b/shared_resource/main/scripts/settings.json"
 
 $dest = "$Env:USERPROFILE\appdata\Roaming\code\user\settings.json"
 $bkpdest = "$Env:USERPROFILE\appdata\Roaming\code\user\settings_bkp.json"	
