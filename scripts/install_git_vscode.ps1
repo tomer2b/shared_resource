@@ -1,3 +1,5 @@
+# All Rights Reserved to Tomer Tubi
+
 $url_vscode = "https://vscode.download.prss.microsoft.com/dbazure/download/stable/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2/VSCodeSetup-x64-1.85.1.exe"
 $vscode_dest = "C:\temp\VSCodeSetup-x64-1.85.1.exe"
 $url_git = "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe"
